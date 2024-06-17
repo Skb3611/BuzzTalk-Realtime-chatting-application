@@ -1,0 +1,18 @@
+
+/* scrollbar.css */
+.scrollable-container::-webkit-scrollbar {
+    @apply w-1;
+  }
+  
+  .scrollable-container::-webkit-scrollbar-track {
+    @apply bg-gray-200 rounded-lg;
+  }
+  
+  .scrollable-container::-webkit-scrollbar-thumb {
+    @apply bg-purple-600 rounded-lg;
+  }
+  
+  .scrollable-container::-webkit-scrollbar-thumb:hover {
+    @apply bg-purple-800;
+  }
+  
