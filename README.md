@@ -1,3 +1,4 @@
+![Untitled](https://github.com/Skb3611/BuzzTalk-Realtime-chatting-application/assets/140585267/eb04bd07-d4ce-4280-85a0-212ca5dd3c81)
 # BuzzTalk: Realtime Chatting Application
 
 Welcome to **BuzzTalk**, a sophisticated real-time chatting application designed to offer seamless communication. Whether you're building a community, collaborating with a team, or just chatting with friends, BuzzTalk provides a robust platform to stay connected.
@@ -74,14 +75,21 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-1. **Sign Up / Log In:**
-   Create a new account or log in with your existing credentials.
+1. **Sign Up :**
+   Create a new account![Untitled (2)](https://github.com/Skb3611/BuzzTalk-Realtime-chatting-application/assets/140585267/069c69c7-c02e-46c2-9092-45077ffe751a)
 
-2. **Join a Chat Room:**
+
+2. **Log In :** 
+    Log in with your existing credentials.![Untitled (1)](https://github.com/Skb3611/BuzzTalk-Realtime-chatting-application/assets/140585267/62d079fc-1e4e-4f0b-af53-aac3dbca3240)
+
+
+3. **Join a Chat Room:**
    Enter an existing chat room or create a new one.
 
-3. **Start Chatting:**
+4. **Start Chatting:**
    Send and receive messages in real-time.
+   ![Untitled (3)](https://github.com/Skb3611/BuzzTalk-Realtime-chatting-application/assets/140585267/c2945391-ef67-427e-b887-a2bbb55d41cb)
+
 
 ## License
 
